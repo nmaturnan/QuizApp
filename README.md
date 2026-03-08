@@ -2,7 +2,6 @@
 
 QuizApp is a ReactJS-based web application that allows users to take assessments by solving multiple-choice questions (MCQs). The application ensures a seamless user experience with validations, scoring, and a final result display.
 
-
 ## ✨ Features
 
 - **Interactive Quiz**: Users can solve MCQs one question at a time.
